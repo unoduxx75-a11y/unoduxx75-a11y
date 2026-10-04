@@ -13,6 +13,3 @@ I am a Computer Science student who loves to code, build helpful software, and s
 
 ---
 
-### 📊 My GitHub Stats
-
-![Uno's GitHub Stats](https://vercel.app)
